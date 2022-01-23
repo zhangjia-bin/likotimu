@@ -1,0 +1,15 @@
+C:\Users\章佳彬66\Desktop\力扣题目\21\21likoclass\21likoclass\bin\Debug\21likoclass.exe.config
+C:\Users\章佳彬66\Desktop\力扣题目\21\21likoclass\21likoclass\bin\Debug\21likoclass.exe
+C:\Users\章佳彬66\Desktop\力扣题目\21\21likoclass\21likoclass\bin\Debug\21likoclass.pdb
+C:\Users\章佳彬66\Desktop\力扣题目\21\21likoclass\21likoclass\obj\Debug\21likoclass.csproj.AssemblyReference.cache
+C:\Users\章佳彬66\Desktop\力扣题目\21\21likoclass\21likoclass\obj\Debug\21likoclass.csproj.SuggestedBindingRedirects.cache
+C:\Users\章佳彬66\Desktop\力扣题目\21\21likoclass\21likoclass\obj\Debug\21likoclass.csproj.CoreCompileInputs.cache
+C:\Users\章佳彬66\Desktop\力扣题目\21\21likoclass\21likoclass\obj\Debug\21likoclass.exe
+C:\Users\章佳彬66\Desktop\力扣题目\21\21likoclass\21likoclass\obj\Debug\21likoclass.pdb
+C:\Users\章佳彬66\Desktop\力扣题目\21\21_24likoclass\21likoclass\bin\Debug\21likoclass.exe.config
+C:\Users\章佳彬66\Desktop\力扣题目\21\21_24likoclass\21likoclass\bin\Debug\21likoclass.exe
+C:\Users\章佳彬66\Desktop\力扣题目\21\21_24likoclass\21likoclass\bin\Debug\21likoclass.pdb
+C:\Users\章佳彬66\Desktop\力扣题目\21\21_24likoclass\21likoclass\obj\Debug\21likoclass.csproj.AssemblyReference.cache
+C:\Users\章佳彬66\Desktop\力扣题目\21\21_24likoclass\21likoclass\obj\Debug\21likoclass.csproj.CoreCompileInputs.cache
+C:\Users\章佳彬66\Desktop\力扣题目\21\21_24likoclass\21likoclass\obj\Debug\21likoclass.exe
+C:\Users\章佳彬66\Desktop\力扣题目\21\21_24likoclass\21likoclass\obj\Debug\21likoclass.pdb
